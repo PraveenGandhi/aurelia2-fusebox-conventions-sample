@@ -5,7 +5,7 @@
 
 ## Tweaking bundling wtih two node processes 
 1. @aurelia/plugin-gulp
-    - [gulp.js](gulp.js) with gulp-replace
+    - [gulpfile.js](gulpfile.js) with gulp-replace
 2. fuse-box bundling and dev server
     - [fuse.js](fuse.js)
 
