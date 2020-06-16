@@ -5,7 +5,7 @@
 
 
 ## fuse-box bundling and dev server
-    - [fuse.js](fuse.js)
+1. [fuse.js](fuse.js)
 
 ## To install and run the app (in watch mode):
 
